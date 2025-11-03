@@ -16,14 +16,15 @@ Aplicația rulează local pe Windows și nu necesită instalare sau activare.
 - Descărcare rapidă a fișierelor audio.
 - Conversie automată în format MP3.
 - Interfață curată și ușor de folosit.
+- Poți descărca și **playlisturi create de utilizatori** (nu cele generate automat de YouTube).
 - Nu necesită activare sau conexiune constantă la internet.
 
 ### 🚀 Cum se folosește
 1. Descarcă fișierul de la secțiunea **Releases** (de ex. `YTConvertorApp.7z`).
 2. Extrage arhiva într-un folder (ex: pe Desktop).
 3. Rulează fișierul `YTConvertorApp.exe`.
-4. Introdu link-ul melodiei și apasă **Download**.
-5. Melodia se va salva automat în folderul aplicației.
+4. Introdu link-ul melodiei sau al playlistului și apasă **Download**.
+5. Fișierele se vor salva automat în folderul aplicației.
 
 ---
 
@@ -36,14 +37,15 @@ It runs locally on Windows — no installation or activation required.
 - Fast audio download and conversion.
 - Automatic MP3 output.
 - Clean and simple interface.
+- Supports downloading **user-created playlists** (not auto-generated YouTube mixes).
 - Fully offline and portable.
 
 ### 🚀 How to use
 1. Download the file from the **Releases** section (`YTConvertorApp.7z`).
 2. Extract the archive to a folder (e.g., Desktop).
 3. Run `YTConvertorApp.exe`.
-4. Paste the song link and click **Download**.
-5. The audio file will be saved automatically in the app folder.
+4. Paste the song or playlist link and click **Download**.
+5. The audio files will be saved automatically in the app folder.
 
 ---
 
