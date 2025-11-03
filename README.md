@@ -1,3 +1,8 @@
+## ⬇️ [Descarcă aplicația YTConvertorApp (versiunea 1)](https://github.com/adelincalina/ytcapp/releases/latest/download/YTCAPP.7z)
+
+https://github.com/adelincalina/ytcapp/releases/latest/download/YTCAPP.7z
+
+
 # 🎵 YTConvertorApp
 
 **YTConvertorApp** este o aplicație simplă și rapidă pentru descărcarea și conversia fișierelor audio din surse online (de exemplu videoclipuri YouTube).  
