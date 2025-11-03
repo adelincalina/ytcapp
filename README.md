@@ -59,5 +59,7 @@ Acest proiect este oferit ca aplicație personală de testare și învățare.
 Distribuirea conținutului audio descărcat trebuie să respecte drepturile de autor.
 
 ---
+<img width="1248" height="680" alt="image" src="https://github.com/user-attachments/assets/47b6a8eb-8102-4ebe-af18-fa10a7d9cbdf" />
+
 
 ✉️ **Autor:** [adelincalina](https://github.com/adelincalina)
