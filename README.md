@@ -60,6 +60,17 @@ Distribuirea conținutului audio descărcat trebuie să respecte drepturile de a
 
 ---
 <img width="1248" height="680" alt="image" src="https://github.com/user-attachments/assets/47b6a8eb-8102-4ebe-af18-fa10a7d9cbdf" />
+---
+
+## 🧾 Credite și Licențe
+
+Această aplicație folosește componente open-source:
+
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) – licență **The Unlicense (Public Domain)**  
+- [FFmpeg](https://ffmpeg.org) și [FFprobe](https://ffmpeg.org/ffprobe.html) – licență **LGPL v2.1+**  
+  Copyright © 2000–2025 FFmpeg Developers
+
+Aceste programe sunt incluse în folderul `tools/` și sunt utilizate doar pentru procesarea fișierelor media.
 
 
 ✉️ **Autor:** [adelincalina](https://github.com/adelincalina)
